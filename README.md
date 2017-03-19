@@ -1,4 +1,4 @@
-# KeyGen Addon for Serris v0.1
+# KeyGen Addon for Serris v1.0
 
 This **KeyGen Addon** project is developed for **Serris Code Editor** (more info on [its dev blog](https://yoshilegris.wordpress.com/)).  
 It's an *official addon* made by Matiboux.
