@@ -1,0 +1,3 @@
+[submodule "KeyGenJS"]
+	path = KeyGenJS
+	url = https://github.com/matiboux/KeyGenJS-Lib.git
