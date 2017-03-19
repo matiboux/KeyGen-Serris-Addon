@@ -1,0 +1,10 @@
+{
+	"author": "Matiboux",
+	"version": 0.1,
+	"sce_version_min": 1.0,
+	"name": "KeyGen Addon",
+	"type": "addon",
+	
+	"assets_js": [ "\\KeyGenJS\\KeyGenLib.js" ],
+	"assets_css": [ "\\style.css" ]
+}
