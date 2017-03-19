@@ -5,6 +5,14 @@
 	"name": "KeyGen Addon",
 	"type": "addon",
 	
-	"assets_js": [ "\\KeyGenJS\\KeyGenLib.js" ],
-	"assets_css": [ "\\style.css" ]
+	"assets_js": [
+		"\\js\\jquery-3.1.1.min.js",
+		"\\js\\bootstrap.min.js",
+		"\\KeyGenJS\\KeyGenLib.js",
+		"\\js\\keygen.js"
+	],
+	"assets_css": [
+		"\\css\\bootstrap.min.css",
+		"\\css\\keygen.css"
+	]
 }
