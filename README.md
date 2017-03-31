@@ -1,7 +1,9 @@
 # KeyGen Addon for Serris v1.0
 
-This **KeyGen Addon** project is developed for **Serris Code Editor** (more info on [its dev blog](https://yoshilegris.wordpress.com/)).  
-It's an *official addon* made by Matiboux.
+This project is a **KeyGen Addon** developed for [**Serris Code Editor**](https://yoshilegris.wordpress.com/).
+
+The project has be made with [KeyGen JS Lib](https://github.com/matiboux/KeyGenJS-Lib), an open source password generator.  
+The *KeyGenJS-Lib/* submodule build correspond to the one currently used by the project.
 
 ### License
 

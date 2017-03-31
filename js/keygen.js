@@ -12,12 +12,6 @@
 			var keygen = KeygenLib.generateKeygen();
 			SCE.insert(keygen);
 		});
-		
-		$('.keygen form :reset').click(function () {
-			$('#bye').removeClass().addClass('content-box-header');
-			$('#bye p').html('Use the form below to generate your own Keygen');
-			$('#bye .copykeygen').animate({ right: '-99px' });
-		});
 	});
 
 })();
